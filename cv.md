@@ -2,10 +2,10 @@
 
 # Contacts
 + <b> Location: </b> Minsk, Belarus
-+ Phone: +375 25 650-00-99
-+ Email: m.miksiuk@gmail.com
++  <b> Phone: </b> +375 25 650-00-99
++ <b> Email: </b> m.miksiuk@gmail.com
 + <a href="https://github.com/Mmiksiuk/">GitHub</a>
-+ Discord: M.miksiuk
++ <b> Discord: </b> M.miksiuk
 
 # About Me
 I work in the catering industry. Decided to change scope. No hobbies
