@@ -4,7 +4,7 @@
 + Location: Minsk, Belarus
 + Phone: +375 25 650-00-99
 + Email: m.miksiuk@gmail.com
-+ GitHub:  <a href=https://github.com/Mmiksiuk target=_blank>Mmiksiuk</a>
++   <a href=https://github.com/Mmiksiuk target=_blank>GitHub</a>
 + Discord M.miksiuk
 
 # About Me
