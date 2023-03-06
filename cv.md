@@ -13,7 +13,10 @@ I work in the catering industry. Decided to change scope. No hobbies
 # Skills
 None
 # Code Example
-no
+<pre>
+<code> console.log("Hello, World!") </code>
+</pre>
+
 # Experience
 no
 # Education
