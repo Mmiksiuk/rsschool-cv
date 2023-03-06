@@ -20,11 +20,11 @@ I am unreliable and do not seek new responsibilities in a wide range of employme
 # Skills
 None
 # Code Example
-`
+```
 function multiply(a, b){
   return a * b
 }
-`
+```
 
 # Experience
 --
