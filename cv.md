@@ -14,7 +14,7 @@ I work in the catering industry. Decided to change scope. No hobbies
 None
 # Code Example
 <pre>
-<code> console.log("Hello, World!") </code>
+<code> No example </code>
 </pre>
 
 # Experience
