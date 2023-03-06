@@ -5,13 +5,13 @@
 + Phone: +375 25 650-00-99
 + Email: m.miksiuk@gmail.com
 + GitHub: https://github.com/Mmiksiuk
-+ Discord M.miksiuk#6157
++ Discord M.miksiuk
 
 # About Me
-idiot
+I work in the catering industry. Decided to change scope. No hobbies
 
 # Skills
-no
+None
 # Code Example
 no
 # Experience
